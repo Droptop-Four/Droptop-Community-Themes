@@ -58,7 +58,7 @@
 <!-- DISCORD BANNER -->
 
 <p align="center">
-  <a href="https://discord.gg/aGQ6uE4Fgp" target="_blank">
+  <a href="https://www.droptopfour.com/discord/" target="_blank">
     <img src="https://discordapp.com/api/guilds/800124057923485728/widget.png?style=banner3" alt="Discord Community Invite"/>
   </a>
 </p>
