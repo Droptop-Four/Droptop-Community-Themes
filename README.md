@@ -5,7 +5,7 @@
 <br />
 <p align="center">
     <a href="https://droptopfour.com">
-        <img src="https://user-images.githubusercontent.com/66331265/143691398-b730e847-00dc-4e43-8b87-d066cbd6407d.png"
+        <img src="https://user-images.githubusercontent.com/66331265/229708672-c7d87ba1-5493-4269-8740-0cee867dd1ab.png"
             alt="Logo"  style='height: 100%; width: 100%; object-fit: contain'>
     </a>
 </p>
@@ -17,38 +17,22 @@
 <!-- DROPTOP SITE -->
 
 <p align="center">
-    <a href="https://droptop-four.github.io/community-themes/"><img
+    <a href="https://droptopfour.com/community-themes/"><img
             src="https://img.shields.io/static/v1?label=See+On&message=Droptop+Four+Website&color=50AE5C&style=for-the-badge" alt="See On Droptop Four Website"></a>
 </p>
 
 <!-- INTRO -->
 
 <p align="center">
-    <b>This is a Repository that contains all the Commuinty Themes available to download on the <a href="https://droptop-four.github.io/community-themes/">DroptopFour website</a> and the full tutorial to create your personal Droptop Custom Theme<br><br></b>
+    <b>This is a Repository that contains all the Commuinty Themes available to download on the <a href="https://droptopfour.com/community-themes/">DroptopFour website</a> and the full tutorial to create your personal Droptop Custom Theme<br><br></b>
 </p>
 
-<!-- APPS -->
+<!-- THEMES -->
 
 <h2 align="center">Themes</h2>
 
 <p>
-    To see all the available apps take a look at the <a href="https://github.com/Droptop-Four/Droptop-Community-Themes/tree/main/Themes">Themes folder</a><br><br>
-</p>
-
-<!-- APP CREATION -->
-
-<h2 align="center">HOW TO MAKE A THEME</h2>
-
-<p>
-  Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Themes/blob/main/MAKE-A-THEME.md">MAKE-A-THEME.md file</a> or on the <a href="https://droptop-four.github.io/community-themes/create-a-theme.html">Droptop Four Website</a>.<br><br>
-</p>
-
-<!-- APP SHARE -->
-
-<h2 align="center">HOW TO SHARE A THEMES</h2>
-
-<p>
-    Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Themes/blob/main/SHARE-A-THEME.md">SHARE-A-THEME.md file</a> or on the <a href="https://droptop-four.github.io/community-themes/create-a-theme.html">Droptop Four Website</a>.<br><br>
+    To see all the available themes take a look at the <a href="https://github.com/Droptop-Four/Droptop-Community-Themes/tree/main/Themes">Themes folder</a> or on the <a href="https://www.droptopfour.com/community-themes/">website</a><br><br>
 </p>
 
 <!-- DROPTOPFOUR DISCORD -->
